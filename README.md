@@ -2,8 +2,8 @@
 
 **Are your opponents real players or bots (cheater)?** RLDetect analyzes your match replays and tells you instantly — without ever leaving Rocket League.
 
-**Bot detection powered by [whosbotting.com](https://whosbotting.com/) by ZealanL.**  
 RLDetect provides the in-game plugin, replay upload flow, and results interface.
+Bot detection powered by [whosbotting.com](https://whosbotting.com/) by ZealanL. 
 ---
 
 ## Installation
