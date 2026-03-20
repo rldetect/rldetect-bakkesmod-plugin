@@ -1,0 +1,12 @@
+#pragma once
+
+#define VERSION_MAJOR 1
+#define VERSION_MINOR 0
+#define VERSION_PATCH 4
+#define VERSION_BUILD 1
+
+#define STRINGIFY_INNER(x) #x
+#define STRINGIFY(x) STRINGIFY_INNER(x)
+
+constexpr auto plugin_version =
+    STRINGIFY(VERSION_MAJOR) "." STRINGIFY(VERSION_MINOR) "." STRINGIFY(VERSION_PATCH) "." STRINGIFY(VERSION_BUILD);
